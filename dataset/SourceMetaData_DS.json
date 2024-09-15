@@ -1,0 +1,19 @@
+{
+	"name": "SourceMetaData_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ADLS_LinkedStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "source"
+			}
+		},
+		"schema": {}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

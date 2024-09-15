@@ -1,0 +1,17 @@
+{
+	"name": "stg_pay_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSQLdb_LinkedService",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "STG",
+			"table": "payroll"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

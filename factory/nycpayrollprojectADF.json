@@ -1,0 +1,9 @@
+{
+	"name": "nycpayrollprojectADF",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11b29b9c-0924-40c2-b21a-8f879260fefc",
+		"tenantId": "139091cd-5bc0-4e0e-9795-03cf3fc60c15"
+	}
+}
