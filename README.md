@@ -119,6 +119,12 @@ Set up a GitHub repository to host the entire codebase and documentation. The re
 •	Source code for ETL pipelines, transformations, and warehouse loading.
 
 
+
+![Screenshot 2024-09-15 085955](https://github.com/user-attachments/assets/c0c7079c-2314-4e70-a50f-10bb30f2ffda)
+
+
+
+
 **Optimization Recommendations for NYC Payroll Data Integration**
 
 
